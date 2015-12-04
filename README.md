@@ -7,13 +7,13 @@ Web based two player networked tic tac toe. The game server is in java. It can s
 3. tic-tac-toe is the web project folder written in php and javascript.
 
 ##How to run:
-(Using 1 computer)
-1. Run IkhsanTicTacToeServer.
-2. Run game homepage in browser. One tab/window for a player and another for another player.
-(Using 2 computer connected together by ad-hoc network)
-1. Run IkhsanTicTacToeServer.
-2. Run the game homepage in browser from one of the computer in the network. Use ip address of the computer server as its host address.
-3. Do step 2 for another player.
+a. (Using 1 computer)
+  1. Run IkhsanTicTacToeServer.
+  2. Run game homepage in browser. One tab/window for a player and another for another player.
+b. (Using 2 computer connected together by ad-hoc network)
+  1. Run IkhsanTicTacToeServer.
+  2. Run the game homepage in browser from one of the computer in the network. Use ip address of the computer server as its host address.
+  3. Do step 2 for another player.
 
 ##Credits:
 1. [tushar bandal](http://codepen.io/tusharbandal/pen/mdujc/) for the game homepage interface.
