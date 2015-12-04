@@ -16,5 +16,5 @@ How to run:
 3. Do step 2 for another player.
 
 Credits:
-1. tushar bandal (http://codepen.io/tusharbandal/pen/mdujc/) for the game homepage interface.
-2. Ray Toal (http://cs.lmu.edu/~ray/notes/javanetexamples/) for the learning and idea in this network socket programming project.
+1. [tushar bandal](http://codepen.io/tusharbandal/pen/mdujc/) for the game homepage interface.
+2. [Ray Toal](http://cs.lmu.edu/~ray/notes/javanetexamples/) for the learning and idea in this network socket programming project.
